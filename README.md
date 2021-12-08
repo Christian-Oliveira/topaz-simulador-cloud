@@ -82,12 +82,13 @@ pip install -r requirements.txt
 
 *Make sure your internet is stable, as this may take a while* 
 
-### 3. Initializing the Application
+### 4. Initializing the Application
 First check if it is inside the *src* folder.
 
 ```
 python app.py
 ```
+When processing is finished, the *output.txt* file will be in the *src/temp* folder.
 
 ## ✅Tests
 To run the tests just run the following command in the *src* folder.
